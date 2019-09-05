@@ -1,2 +1,3 @@
 # udemy-angular-8-course-project
-https://www.udemy.com/the-complete-guide-to-angular-2/
+
+This project implements the instructions given in Maximilian Schwarzmüller's Angular 8 course on [Udemy.com](https://www.udemy.com/the-complete-guide-to-angular-2/).
